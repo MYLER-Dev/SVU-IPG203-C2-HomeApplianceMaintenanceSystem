@@ -18,4 +18,3 @@ public sealed class AirConditioner : Appliance
 
     public override decimal CalculateRepairCost() => 50m + (CoolingCapacityBtu / 1000m * 3m);
 }
-
