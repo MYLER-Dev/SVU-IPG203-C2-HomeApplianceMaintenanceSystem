@@ -1,5 +1,6 @@
 namespace HomeApplianceMaintenanceSystem.Models;
 
+// Encapsulation / التغليف
 
 public interface IRepairable
 {
