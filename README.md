@@ -1,7 +1,7 @@
-MYLER-DEV : mohammad_albezrah_329384
+MYLER-DEV : mohammad_albezrah_329384 - C2- محمد جمال البزرة
 
 
-Mohamad Taftanazi : mohamad_jamil_383209 - C2- محمد جمال البزرة
+Mohamad Taftanazi : mohamad_jamil_383209 - C2- محمد جميل تفتنازي
 
 
 Omar-Dabagh : Omar_345271 - C2- عمر سمير دباغ
