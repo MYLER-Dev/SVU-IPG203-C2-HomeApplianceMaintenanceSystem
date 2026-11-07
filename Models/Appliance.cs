@@ -3,7 +3,7 @@ using HomeApplianceMaintenanceSystem.Utilities;
 
 namespace HomeApplianceMaintenanceSystem.Models;
 
-// Abstract - ÇáÊÌÑíÏ
+// Abstract / Ø§Ù„ØªØ¬Ø±ÙŠØ¯
 public abstract class Appliance : IRepairable
 {
     private readonly string _serialNumber;
@@ -12,10 +12,10 @@ public abstract class Appliance : IRepairable
     private int _manufacturingYear;
     private string _status;
 
-    public static int TotalRegistered { get; private set; } // Encapsulation - ÇáÊÛáíÝ
-    public static decimal TotalEstimatedRepairCost { get; private set; }// Encapsulation - ÇáÊÛáíÝ
+    public static int TotalRegistered { get; private set; } // Encapsulation - Ã‡Ã¡ÃŠÃ›Ã¡Ã­Ã
+    public static decimal TotalEstimatedRepairCost { get; private set; }// Encapsulation - Ã‡Ã¡ÃŠÃ›Ã¡Ã­Ã
 
-    public string SerialNumber => _serialNumber; // Read-only - ááÞÑÇÁÉ ÝÞØ.
+    public string SerialNumber => _serialNumber; // Read-only - Ã¡Ã¡ÃžÃ‘Ã‡ÃÃ‰ ÃÃžÃ˜.
     public string CustomerName
     {
         get => _customerName;
