@@ -18,4 +18,3 @@ public sealed class WashingMachine : Appliance
 
     public override decimal CalculateRepairCost() => 40m + (ProgramCount * 4m);
 }
-
