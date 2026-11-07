@@ -18,4 +18,3 @@ public sealed class Refrigerator : Appliance
 
     public override decimal CalculateRepairCost() => 35m + (CapacityCubicFeet * 2.5m);
 }
-
