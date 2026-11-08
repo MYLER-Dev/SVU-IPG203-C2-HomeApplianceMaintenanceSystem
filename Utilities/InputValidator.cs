@@ -13,4 +13,4 @@ public static class InputValidator
 
     public static bool IsValidYear(int year) =>
         year >= 1980 && year <= DateTime.Now.Year;
-}
+
