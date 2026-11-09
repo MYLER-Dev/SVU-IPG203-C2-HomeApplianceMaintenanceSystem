@@ -1,5 +1,6 @@
 namespace HomeApplianceMaintenanceSystem.Utilities;
 
+// class member
 
 public static class InputValidator
 {
